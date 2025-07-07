@@ -52,7 +52,7 @@ This project demonstrates how to use three pushbuttons to control three LEDs on 
 
 
 
-## Code (`src/button_leds.ino`)
+## Code
 
 ```cpp
 // Pin assignments
