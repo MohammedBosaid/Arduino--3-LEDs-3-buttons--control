@@ -30,7 +30,7 @@ This project demonstrates how to use three pushbuttons to control three LEDs on 
    - LED3 Anode → 330 Ω resistor → Pin 10  
      LED3 Cathode → GND  
 
-![Wiring Diagram](images/circuit_connection.png)
+![Wiring Diagram](circuit_connection.png)
 
 
 ## How to Run
